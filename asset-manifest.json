@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fapp/static/css/main.48330483.chunk.css",
+    "main.js": "/fapp/static/js/main.88f661bb.chunk.js",
+    "main.js.map": "/fapp/static/js/main.88f661bb.chunk.js.map",
+    "runtime-main.js": "/fapp/static/js/runtime-main.0c4fa571.js",
+    "runtime-main.js.map": "/fapp/static/js/runtime-main.0c4fa571.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/fapp/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.3e05445e.chunk.js": "/fapp/static/js/2.3e05445e.chunk.js",
+    "static/js/2.3e05445e.chunk.js.map": "/fapp/static/js/2.3e05445e.chunk.js.map",
+    "index.html": "/fapp/index.html",
+    "precache-manifest.4508efbea46b4171864d94c2dfb548b0.js": "/fapp/precache-manifest.4508efbea46b4171864d94c2dfb548b0.js",
+    "service-worker.js": "/fapp/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/fapp/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.48330483.chunk.css.map": "/fapp/static/css/main.48330483.chunk.css.map",
+    "static/media/logo.svg": "/fapp/static/media/logo.4c512146.svg"
+  }
+}
